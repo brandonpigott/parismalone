@@ -1,0 +1,13 @@
+body{background-color: #E4D2CE;}
+h1{font-family: Courier; font-size: 50px; color: #3B3B3B;}
+p{font-family: Courier; font-size: 20px; color: #3B3B3B;}
+.sketch {display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 40%;}
+a{font-family: Courier; font-size: 30px; color: #3B3B3B; text-decoration-line: none;}
+ul{list-style-type: none; margin: 0; padding: 0;}
+li{float: left;}
+a {display: block;
+	padding: 10px;
+	background-color: white;}
